@@ -1,3 +1,3 @@
 # MVVMProject
 
-### MMVM Architechtural design paturn!
+### MVVM Architechtural design paturn!
