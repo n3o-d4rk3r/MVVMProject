@@ -1,4 +1,4 @@
-# MVVM Project -Remotly Work
+# MVVM Project - Remotly Work
 
 ### MVVM Architechtural design paturn!
 
