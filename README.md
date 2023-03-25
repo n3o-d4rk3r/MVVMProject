@@ -1,3 +1,3 @@
 # MVVM Project - Remotly Work
-### MVVM Architechtural design patturn!
+### MVVM is Model View ViewModel Architechtural design patturn!
 
