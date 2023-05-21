@@ -1,7 +1,7 @@
 # MVVM Project-Remotly Work INTERVIEW
 ### MVVM is Model View ViewModel Architechtural design patturn.
 
-### Package Structure:
+### MVVM Package Structure:
 └── app<br>
     ├── src<br>
     │   ├── main<br>
