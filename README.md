@@ -2,8 +2,6 @@
 ### MVVM is Model View ViewModel Architechtural design patturn.
 
 
-
-
 ### MVVM Package Structure:
 └── app<br>
     ├── src<br>
