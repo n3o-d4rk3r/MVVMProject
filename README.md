@@ -3,7 +3,6 @@
 
 
 
-
 ### MVVM Package Structure:
 └── app<br>
     ├── src<br>
